@@ -32,3 +32,26 @@ p {
     text-align: justify;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+body {
+    color: #333;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.p {
+    color: magenta;
+}
+
+em {
+    color: pink;
+}
+
+strong {
+    color: purple;
+}
+
+span {
+    color: violet;
+}
