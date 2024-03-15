@@ -1,0 +1,18 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5px;
+}
+
+.p3 {
+    font-family: 'Courier New', Courier, monospace;
+    color: violet;
+    margin: 25px;
+}
+
+.p4 {
+    color: steelblue;
+}
+ 
+#tri {
+    color: purple;
+}
